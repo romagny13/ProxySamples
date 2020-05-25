@@ -92,11 +92,6 @@ namespace DispatchProxySample
             return (TDecorated)proxy;
         }
 
-        public static TDecorated CreateProxy(TDecorated decorated)
-        {
-            return CreateProxy(decorated, null, null, null);
-        }
-
         private void SetParameters(TDecorated decorated, Action<MethodInfo> beforeExecute, Action<MethodInfo, object> afterExecute, Action<MethodInfo, Exception> executionFailed, object proxy)
         {
             this.decorated = decorated;
