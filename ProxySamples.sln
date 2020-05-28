@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DispatchProxySample", "Disp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealProxySample", "RealProxySample\RealProxySample.csproj", "{B08C0810-AB51-4FBC-A927-BB6986A8D69C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromScratch", "FromScratch\FromScratch.csproj", "{88D2CF5F-FBE8-4331-9C9C-DA1294094B42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B08C0810-AB51-4FBC-A927-BB6986A8D69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B08C0810-AB51-4FBC-A927-BB6986A8D69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B08C0810-AB51-4FBC-A927-BB6986A8D69C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88D2CF5F-FBE8-4331-9C9C-DA1294094B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D2CF5F-FBE8-4331-9C9C-DA1294094B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D2CF5F-FBE8-4331-9C9C-DA1294094B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D2CF5F-FBE8-4331-9C9C-DA1294094B42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
