@@ -33,3 +33,40 @@
 
 * [Fody](https://github.com/Fody/Fody), 
 * [Mimick.Fody](https://github.com/Epoque/Mimick.Fody) [wiki](https://github.com/Epoque/Mimick.Fody/wiki)
+
+## Overview
+
+### Mono Cecil
+
+Create a build task and update the assembly at compilation. Great for AOP
+
+**Fody** for example.
+
+Reflection Emit
+
+Create an assembly and return proxies. 
+
+Require virtual members for class proxies. Cannot call Static method
+
+**Castle DynamicProxy**
+
+
+### DynamicMetaObject / IDynamicMetaObjectProvider
+
+DLR. Keyword dynamic requis. No InstelliSense
+
+**KingAOP** for example
+
+### And more
+
+RealProxy, DispatchProxy: class must inherit from MarshalByRefObject (or use interface). Tragtes frameworks
+
+Unity: use proxies MS and more.
+
+Reflection: it's possible
+
+Code generation with Templates T4 / CodeDom
+
+PostSharp (commercial)
+
+and more projects like Spring.Net
