@@ -22,9 +22,11 @@ Interfaces:
 * IMethodInterceptor
 * IParameterInterceptor
 
-+ IInstanceAware, IMemberAware, IRequireInitialization, IMethodReturnInterceptor
-+ CompilationImplements, CompilationOptions
-+ Scheduled, Value, Autowire, provide, Component, Configuration
+And 
+
+* IInstanceAware, IMemberAware, IRequireInitialization, IMethodReturnInterceptor
+* CompilationImplements, CompilationOptions
+* Scheduled, Value, Autowire, provide, Component, Configuration
 
 [Article](https://www.codeproject.com/Articles/1273911/Mimick-A-Fody-Aspect-Oriented-Weaving-Framework)
 [dependency Injection](https://github.com/Epoque/Mimick.Fody/wiki/Components)
