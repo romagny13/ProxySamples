@@ -59,14 +59,14 @@ DLR. Keyword dynamic. No InstelliSense
 
 ### And more
 
-RealProxy, DispatchProxy: class inherit from MarshalByRefObject (or use interface). Targets frameworks
+**RealProxy**, **DispatchProxy**: class inherit from MarshalByRefObject (or use interface).
 
-Unity: use proxies MS and more.
+**Unity**: use proxies MS and more.
 
-Reflection: it's possible
+**Reflection**: it's possible
 
-Code generation with Templates T4 / CodeDom
+**Code generation** with **T4 Templates** / **CodeDom**
 
-PostSharp (commercial)
+**PostSharp** (commercial)
 
-and more projects like Spring.Net
+and more projects (like Spring.Net, etc.)
