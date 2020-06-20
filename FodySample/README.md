@@ -22,7 +22,7 @@ Interfaces:
 * IMethodInterceptor
 * IParameterInterceptor
 
-+ IINstanceAware, IMemberAware, IRequireInitialization, IMethodReturnInterceptor
++ IInstanceAware, IMemberAware, IRequireInitialization, IMethodReturnInterceptor
 + CompilationImplements, CompilationOptions
 + Scheduled, Value, Autowire, provide, Component, Configuration
 
