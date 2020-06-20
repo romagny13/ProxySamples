@@ -1,6 +1,6 @@
 # ProxySamples
  
- > RealProxy, DispatchProxy, Unity and From Scratch Samples
+ > RealProxy, DispatchProxy, Unity, From Scratch and Fody Samples
 
 
 ## RealProxy 
@@ -27,3 +27,9 @@
 ## Unity Interception
 
 [Github](https://github.com/unitycontainer/interception)
+
+
+## Fody
+
+* [Fody](https://github.com/Fody/Fody), 
+* [Mimick.Fody](https://github.com/Epoque/Mimick.Fody) [wiki](https://github.com/Epoque/Mimick.Fody/wiki)
