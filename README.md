@@ -42,7 +42,7 @@ Create a build task and update the assembly at compilation. Great for AOP
 
 **Fody** for example.
 
-Reflection Emit
+### Reflection Emit
 
 Create an assembly and return proxies. 
 
