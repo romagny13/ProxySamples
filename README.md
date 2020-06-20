@@ -59,7 +59,7 @@ DLR. Keyword dynamic. No InstelliSense
 
 ### And more
 
-RealProxy, DispatchProxy: class must inherit from MarshalByRefObject (or use interface). Tragtes frameworks
+RealProxy, DispatchProxy: class inherit from MarshalByRefObject (or use interface). Targets frameworks
 
 Unity: use proxies MS and more.
 
