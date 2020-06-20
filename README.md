@@ -53,7 +53,7 @@ Require virtual members for class proxies. Cannot call Static method
 
 ### DynamicMetaObject / IDynamicMetaObjectProvider
 
-DLR. Keyword dynamic requis. No InstelliSense
+DLR. Keyword dynamic. No InstelliSense
 
 **KingAOP** for example
 
