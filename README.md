@@ -28,7 +28,7 @@ DLR. Keyword dynamic. No InstelliSense
 
 ### And more
 
-**RealProxy**, **DispatchProxy**: class inherit from MarshalByRefObject (or use interface).
+**RealProxy**, **DispatchProxy**: class inherits from MarshalByRefObject (or use interface).
 
 **Unity**: use proxies MS and more.
 
