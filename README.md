@@ -17,7 +17,7 @@ Create an assembly and return proxies.
 
 Require virtual members for class proxies. Cannot call Static method
 
-**Castle DynamicProxy**
+**Castle Core (DynamicProxy)**
 
 
 ### DynamicMetaObject / IDynamicMetaObjectProvider
