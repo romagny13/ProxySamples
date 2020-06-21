@@ -38,6 +38,8 @@ DLR. Keyword dynamic. No InstelliSense
 
 **PostSharp** (commercial)
 
+**ContextBoundObject**
+
 and more projects (like Spring.Net, etc.)
 
 ## Samples
