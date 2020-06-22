@@ -24,7 +24,7 @@ namespace CastleNotifyPropertyChangedMixinSample
             // MainWindowViewModel
             var options = new ProxyGenerationOptions();
             options.AddMixinInstance(new PropertyChangedNotifier());
-            mainWindowViewModel = generator.CreateClassProxyWithTarget<MainWindowViewModel>(new MainWindowViewModel(), options, new PropertyChangedInterceptor());
+            mainWindowViewModel = generator.CreateClassProxy<MainWindowViewModel>(options, new PropertyChangedInterceptor());
         }
 
         public MainWindowViewModel MainWindowViewModel
