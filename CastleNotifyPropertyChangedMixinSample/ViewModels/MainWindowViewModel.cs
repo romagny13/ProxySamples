@@ -2,7 +2,13 @@
 
 namespace CastleNotifyPropertyChangedMixinSample.ViewModels
 {
-    public class MainWindowViewModel
+    public interface IMainWindowViewModel
+    {
+        string Title { get; set; }
+        DelegateCommand UpdateTitleCommand { get; }
+    }
+
+    public class MainWindowViewModel : IMainWindowViewModel
     {
         private DelegateCommand updateTitleCommand;
 
