@@ -9,7 +9,7 @@
 
 Create a build task and update the assembly at compilation. Great for AOP
 
-**Fody** for example.
+:arrow_right: **Fody** for example.
 
 ### Reflection Emit
 
@@ -17,14 +17,14 @@ Create an assembly and return proxies.
 
 Require virtual members for class proxies. Cannot call Static method
 
-**Castle Core (DynamicProxy)**
+:arrow_right: **Castle Core (DynamicProxy)**
 
 
 ### DynamicMetaObject / IDynamicMetaObjectProvider
 
 DLR. Keyword dynamic. No InstelliSense
 
-**KingAOP** for example
+:arrow_right: **KingAOP** for example
 
 ### And more
 
