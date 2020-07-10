@@ -12,7 +12,7 @@ namespace CastleInterceptorSelectorSample
         {
             var generator = new ProxyGenerator(new PersistentProxyBuilder());
             var options = new ProxyGenerationOptions(new MyProxyGenerationHook());
-            options.Selector = new MyInterceptorSelector(); // the selector is injected in MyClassProxy and used each method to filter interceptors
+            options.Selector = new MyInterceptorSelector(); // the selector is injected in MyClassProxy and used by each method to filter interceptors
 
             var proxy = generator.CreateClassProxy<MyClass>(options, new GetMethodInterceptor(), new SetMethodInterceptor(), new MethodInterceptor());
             generator.ProxyBuilder.ModuleScope.SaveAssembly();
