@@ -75,3 +75,8 @@ and more projects (like Spring.Net, etc.)
 * [Fody](https://github.com/Fody/Fody), 
 * [Mimick.Fody](https://github.com/Epoque/Mimick.Fody) [wiki](https://github.com/Epoque/Mimick.Fody/wiki)
 
+### Castle
+
+* [Castle Windsor](https://github.com/castleproject/Windsor)
+* [Castle Core](https://github.com/castleproject/Core)
+
