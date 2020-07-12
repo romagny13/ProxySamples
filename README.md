@@ -80,6 +80,6 @@ and more projects (like Spring.Net, etc.)
 * [Castle Core](https://github.com/castleproject/Core)
 
 
-### Resources
+## Resources
 
 * [C# Design Patterns: Proxy (Pluralsight course)](https://app.pluralsight.com/library/courses/c-sharp-design-patterns-proxy/table-of-contents)
