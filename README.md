@@ -79,3 +79,7 @@ and more projects (like Spring.Net, etc.)
 * [Castle Windsor](https://github.com/castleproject/Windsor)
 * [Castle Core](https://github.com/castleproject/Core)
 
+
+### Resources
+
+* [C# Design Patterns: Proxy (Pluralsight course)](https://app.pluralsight.com/library/courses/c-sharp-design-patterns-proxy/table-of-contents)
